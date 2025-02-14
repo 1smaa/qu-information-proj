@@ -1,0 +1,7 @@
+{
+    "rho":[[0,0],
+           [0,1]],
+    "type":"amplitude_damping_ch",
+    "p":0.4,
+    "steps":10
+}

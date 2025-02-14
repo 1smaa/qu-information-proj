@@ -1,0 +1,12 @@
+{
+    "G":50,
+    "A":6,
+    "PHI":0.25,
+    "R":1,
+    "PHI_SQUEEZE":0.5,
+    "DETUNING":0.0,
+    "TIME_STOP":2,
+    "TIME_STEP":1e-3,
+    "TIME_START":0,
+    "N_TH":100
+}
