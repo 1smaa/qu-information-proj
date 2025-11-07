@@ -1,0 +1,3 @@
+Channel 1: mean=13.127, var=13.290, Fano=1.012
+Channel 2: mean=12.197, var=12.254, Fano=1.005
+Channel 3: mean=32.180, var=33.266, Fano=1.034
